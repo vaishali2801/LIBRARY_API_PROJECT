@@ -2,7 +2,6 @@
 import express from "express";
 import auth from "../middleware/auth.js";
 import userController from "../controller/userController.js";
-import bookController from "../controller/bookController.js";
 const router = express.Router();
 
 //user

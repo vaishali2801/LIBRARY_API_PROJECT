@@ -47,7 +47,7 @@ app.use((error, req, res, next) => {
 })
 
 //port
-const port = process.env.port || 5001;
+const port = process.env.PORT || 5001;
 
 //start server
 async function startServer() {

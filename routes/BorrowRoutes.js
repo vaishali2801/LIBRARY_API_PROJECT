@@ -1,7 +1,6 @@
 
 import express from "express";
 import auth from "../middleware/auth.js";
-import checkRole from "../middleware/checkRole.js";
 import borrowController from "../controller/borrowController.js";
 
 const router = express.Router();

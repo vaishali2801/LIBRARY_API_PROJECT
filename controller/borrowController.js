@@ -1,6 +1,6 @@
 import Book from "../model/Book.js";
-import Borrow from "../model/Borrow.js";
 import HttpError from "../middleware/HttpError.js";
+import Borrow from "../model/Borrow.js";
 
 // borrow
 const borrowBook = async (req, res, next) => {

@@ -1,6 +1,5 @@
 import HttpError from "../middleware/HttpError.js";
 import Book from "../model/Book.js";
-import User from "../model/Book.js";
 
 const createBook = async (req, res, next) => {
     try {
