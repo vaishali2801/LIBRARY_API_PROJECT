@@ -153,8 +153,23 @@ Example:
   "success": false,
   "message": "book not found"
 }
+```
 SCREENSHOT
 <img width="1280" height="832" alt="Screenshot 2026-05-12 at 4 36 26 PM" src="https://github.com/user-attachments/assets/3127e4f0-6393-4bbe-9a97-db88e256cb17" />
+<img width="1280" height="832" alt="Screenshot 2026-05-12 at 4 56 10 PM" src="https://github.com/user-attachments/assets/6019abc0-dc6e-4ecd-b41e-1430728979c5" />
+<img width="1280" height="832" alt="Screenshot 2026-05-12 at 4 55 19 PM" src="https://github.com/user-attachments/assets/9a111240-1259-48b8-acf2-4f4ba1eb5322" />
+<img width="1280" height="832" alt="Screenshot 2026-05-12 at 4 54 25 PM" src="https://github.com/user-attachments/assets/e6e011cb-5c9c-48f8-9362-68180c62b747" />
+<img width="1280" height="832" alt="Screenshot 2026-05-12 at 4 53 17 PM" src="https://github.com/user-attachments/assets/b9224d86-11ed-4b44-b286-5bcd23ed23e5" />
+<img width="1280" height="832" alt="Screenshot 2026-05-12 at 4 52 41 PM" src="https://github.com/user-attachments/assets/afde05f2-48ec-41b7-a0bb-3cf8b88eed45" />
+<img width="1280" height="832" alt="Screenshot 2026-05-12 at 4 51 57 PM" src="https://github.com/user-attachments/assets/82bcd095-3e6d-4a77-8ee0-6cc829ffd58e" />
+<img width="1280" height="832" alt="Screenshot 2026-05-12 at 4 50 32 PM" src="https://github.com/user-attachments/assets/ca135b53-f38b-4f0a-9753-ed42d202ec16" />
+<img width="1280" height="832" alt="Screenshot 2026-05-12 at 4 49 37 PM" src="https://github.com/user-attachments/assets/90825c31-0711-4b49-90ff-9535dc6268fa" />
+<img width="1280" height="832" alt="Screenshot 2026-05-12 at 4 49 09 PM" src="https://github.com/user-attachments/assets/3dd16ff0-174a-400d-8819-56506719ae92" />
+<img width="1280" height="832" alt="Screenshot 2026-05-12 at 4 45 09 PM" src="https://github.com/user-attachments/assets/3beaa84e-a805-457c-9bf6-16940d54debd" />
+<img width="1280" height="832" alt="Screenshot 2026-05-12 at 4 41 51 PM" src="https://github.com/user-attachments/assets/27ecccb5-827b-46f8-b869-c1834010e5b5" />
+<img width="1280" height="832" alt="Screenshot 2026-05-12 at 4 40 32 PM" src="https://github.com/user-attachments/assets/a5972d89-e5b5-4a07-8aae-2b7582a3efc6" />
+<img width="1280" height="832" alt="Screenshot 2026-05-12 at 4 39 15 PM" src="https://github.com/user-attachments/assets/147cc960-a76c-4a1e-9961-af2627d25395" />
+
 
 
 Chauhan Vaishali
